@@ -43,16 +43,16 @@
   
   "awards": [
     {
-      "title": "",
+      "title": "Hawaii Rotary Youth Scholarship",
       "date": "2021",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "awarder": "Rotary Club of West Oahu",
+      "summary": "Scholarships awarded to highschool seniors who are attending a degree in collage."
     },
     {
-      "title": "",
+      "title": "Ronald N.S. Ho & Asso. Inc. Educational Scholarship",
       "date": "2021",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Sean Sugai",
+      "summary": "Scholarship awarded to students who are majoring in STEM."
     }
   ],
   "references": [
