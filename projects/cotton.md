@@ -2,58 +2,30 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "AHUPUA'A WATER MONITORING PROJECT"
+date: 2021
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Data analysis
+  - Python
+summary: "A project where I helped gather and analyze data."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="img/unknown.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
+Watershed monitoring is important to track human impacts on the local environment. This project used tools to monitor the water quality and biological integrity of the Kalihi Stream and Niuhelewai stream in our ahupuaʻa. Water quality monitoring probes were deployed within the watershed and analyzed by students.
 
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+When I was in highschool I was the president of the Interact Club which is affiliated with the Hawaii Rotary. The club focused on cleaning the local ecosystem and caring for the ʻāina. On one of our projects, we decided to enter the Hawaiʻi Youth Sustainability Challenge for the years 2019-2020. But since our project requires a long data collection we were able to get an extension until 2021. A cash budget was awarded to our club which we used to purchase three water monitoring sensors. We focused our deployment on two local streams that were heavily polluted. We deployed our sensors focusing on a single stream at a time, placing sensors in three different sections of the stream.
+  
+For this project I worked with four other members and we all had our own tasks. I was in charge of setting up the sensors using python. I also worked on retrieving the data from the sensors and analysing the collected data. Since our project was delayed due to COVID restrictions I was not able to see and help with the complete project. I was only able to finish data collection for one of the streams before graduating from the school. Since I was the only one who knew how to use the sensors, I had to train the remaining project members how to read the data and how to manage the python program if anything malfunctioned. 
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+I would say this was a great project to be a part of. I was able to experience a lot of things I've never experienced before. One of these experiences is when I had to do a Zoom meeting with the two creators of the sensor, who shared and taught me how to use the sensors and how to program them based on what data we wanted. It was a really cool experience because it was my first time coding in python and I made a lot of errors during the meeting. I also learned how to write professional emails as I had to email professors and experts on existing data from the streams. I believe writing good emails are often overlooked but are a great skill to have especially if you're working in a group. 
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
 </pre>
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://sites.google.com/kupuhawaii.org/hysc-past-projects/past-projects-by-year/hysc-2020-2021?authuser=0"><i class="large github icon "></i>jogarces/Hawaii-Youth-Sustainability-Challenge</a>
