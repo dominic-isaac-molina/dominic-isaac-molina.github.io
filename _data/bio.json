@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "dominic-isaac-molina", "url": "https://github.com/dominic-isaac-molina" },
       { "network": "linkedin", "username": "dominicisaacmolina", "url": "http://linkedin.com/in/dominicisaacmolina" },
-      { "network": "instagram". "username": "molina.dominic", "url": "https://www.instagram.com/molina.dominic"}
+      { "network": "instagram", "username": "molina.dominic", "url": "https://www.instagram.com/molina.dominic"}
     ]
   },
   "interests": [
