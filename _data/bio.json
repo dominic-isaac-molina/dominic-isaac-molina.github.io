@@ -2,15 +2,16 @@
   "basics": {
     "name": "Dominic Molina",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "",
     "email": "dim@hawaii.edu",
     "phone": "808-392-4389",
     "website": "https://dominic-isaac-molina.github.io/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96701", "city": "Aiea", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "dominic-isaac-molina", "url": "https://github.com/dominic-isaac-molina" },
-      { "network": "linkedin", "username": "", "url": "http://linkedin.com/in/dominicisaacmolina" },
+      { "network": "linkedin", "username": "dominicisaacmolina", "url": "http://linkedin.com/in/dominicisaacmolina" },
+      { "network": "instagram". "username": "molina.dominic", "url": "https://www.instagram.com/molina.dominic"}
     ]
   },
   "interests": [
@@ -28,6 +29,7 @@
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "Windows", "Git/GitHub", "Command line interface"]
     }
+    
   ],
   "education": [
     {
