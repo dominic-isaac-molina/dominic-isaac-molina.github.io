@@ -13,7 +13,7 @@ labels:
 
 *Nothing worth having comes easy - Nothing worth having comes easy*
 
-![image alt](https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/d0bea6e9bd034e5cae7e6174ef2cc4174fe96c92/img/Teirlists.png)
+![image alt](https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/d0bea6e9bd034e5cae7e6174ef2cc4174fe96c92/img/Teirlists.png?raw=true)
 
 ## Typescript in a perspective of a newbie
 
