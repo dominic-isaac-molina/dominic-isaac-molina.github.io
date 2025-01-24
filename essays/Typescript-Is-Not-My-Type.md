@@ -23,13 +23,17 @@ Creating programs with Typescript have been challenging for me since it’s only
 
 With my experience with Typescript doing the workout of the day (WODs), once you finish creating the main function (the top line), everything else is the same as other programming languages. 
 
-![image alt]([https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/d0bea6e9bd034e5cae7e6174ef2cc4174fe96c92/img/Teirlists.png](https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/ae33bb6724f825e565ddcce2f63ff6d723830b11/img/JSvsTS.png)?raw=true)
+![image alt](https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/JSvsTS.png?raw=true)
 ## Errors before running
 
 Typescript is actually simple and straightforward if you have basic knowledge of Javascript. With my current experience using Typescript and prior experience with JavaScript, Typescript tends to be a little stricker and better with error handling. In the Typescript playground, when I would do the practice work, it would send me error messages before I have run the code. On the other hand, Javascript would only show the errors when you’re running the code. I find this feature helpful as I can get a hint on what and where is the error in my code without having to type more lines of code just to go back because one of my functions is broken. The only complaint I have for the error feature is when I create new functions and it would quickly send an error message which would make me panic.
 
+![image alt](https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/errorimage.png?raw=true)
 A tip that I have for future newbies is to type a little more and see if it removes the error. 
 
 ## WODs are just leetcodes
 
 Using Typescript for the workout of the days (WODs) have been stressful these past few days. Not only are you typing in a new language, you are also timed and limited to a certain time. I came to a realization that WODs are just like leetcode but using Typescript. I have never done any athletic software engineering nor even heard of it so this class was the first time I’ve done anything like this. I just completed my first in-class WOD today and to say that I enjoyed it is a lie. I was confident at first because we are allowed to use tools like Google and AI to help us solve the task. But, even with such tools I still wasn’t able to complete the WOD due to rounding issues. Although I’m struggling with the WODs, I think it will just be like this in the beginning where everything is hard as you are just adjusting. Participating in the practice WODs is also a goodway to learn what you know and what you need to work on. One thing about me is I don’t produce as well when I'm timed and the first few WODs have been forcing me to go out of my comfort zone and code in a certain time frame. 
+
+
+![image alt]([https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/errorimage.png?raw=true](https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/Leetcode.png?raw=true))
