@@ -13,7 +13,8 @@ labels:
 
 *Nothing worth having comes easy - Nothing worth having comes easy*
 
-![image alt](https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/d0bea6e9bd034e5cae7e6174ef2cc4174fe96c92/img/Teirlists.png?raw=true)
+<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/d0bea6e9bd034e5cae7e6174ef2cc4174fe96c92/img/Teirlists.png?raw=true" alt="image alt" width="300" height="300">
+
 
 ## Typescript in a perspective of a newbie
 
@@ -35,5 +36,5 @@ A tip that I have for future newbies is to type a little more and see if it remo
 Using Typescript for the workout of the days (WODs) have been stressful these past few days. Not only are you typing in a new language, you are also timed and limited to a certain time. I came to a realization that WODs are just like leetcode but using Typescript. I have never done any athletic software engineering nor even heard of it so this class was the first time I’ve done anything like this. I just completed my first in-class WOD today and to say that I enjoyed it is a lie. I was confident at first because we are allowed to use tools like Google and AI to help us solve the task. But, even with such tools I still wasn’t able to complete the WOD due to rounding issues. Although I’m struggling with the WODs, I think it will just be like this in the beginning where everything is hard as you are just adjusting. Participating in the practice WODs is also a goodway to learn what you know and what you need to work on. One thing about me is I don’t produce as well when I'm timed and the first few WODs have been forcing me to go out of my comfort zone and code in a certain time frame. 
 
 
-<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/Leetcode.png?raw=true" alt="image alt" width="150" height="150">
+<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/Leetcode.png?raw=true" alt="image alt" width="300" height="300">
 
