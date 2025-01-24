@@ -4,7 +4,7 @@ type: essay
 title: "Typescript Is Not My Type"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-23
-published: true
+published: false
 labels:
   - Typescript
   - WODs
