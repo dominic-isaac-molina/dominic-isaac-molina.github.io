@@ -21,7 +21,7 @@ Secure Texting was my first project where I encountered encryption and decryptio
 In this project I learned the experience of creating a project with security parameters. From my prior works, security were never really involved as long as the program is running. After working on this project, I was more intrested in cybersecurity and hacking. Working on this project also taught me the importance of file compression not only for space but also for speed and security.
 </p>
 
-<script src="https://gist.github.com/dominic-isaac-molina/d4bf2fdb8a95f7029b22fa1a6ec9bdf1.js"></script>
+<script src="https://gist.github.com/dominic-isaac-molina/d4bf2fdb8a95f7029b22fa1a6ec9bdf1.js"> </script>
 
 
 
