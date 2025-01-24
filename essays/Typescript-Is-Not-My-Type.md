@@ -11,10 +11,10 @@ labels:
 ---
 
 
-
 *Nothing worth having comes easy - Nothing worth having comes easy*
 
-<img src="img/Teirlists.png">
+![image alt](https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/d0bea6e9bd034e5cae7e6174ef2cc4174fe96c92/img/Teirlists.png)
+
 ## Typescript in a perspective of a newbie
 
 Maybe Typescript is not for me. 
