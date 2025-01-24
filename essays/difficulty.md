@@ -10,7 +10,6 @@ labels:
   - WODs
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 <p>
 *Nothing worth having comes easy - Nothing worth having comes easy*
 </p>
