@@ -14,8 +14,7 @@ labels:
 
 *Nothing worth having comes easy - Nothing worth having comes easy*
 
-
-
+<img src="img_Teirlists.png" alt="Girl in a jacket">
 ## Typescript in a perspective of a newbie
 
 Maybe Typescript is not for me. 
