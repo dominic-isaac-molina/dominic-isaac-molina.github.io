@@ -10,9 +10,10 @@ labels:
   - WODs
 ---
 
-<p>
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+
 *Nothing worth having comes easy - Nothing worth having comes easy*
-</p>
+
 
 
 ## Typescript in a perspective of a newbie
