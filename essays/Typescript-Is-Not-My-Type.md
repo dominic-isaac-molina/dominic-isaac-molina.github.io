@@ -23,7 +23,6 @@ Creating programs with Typescript have been challenging for me since it’s only
 
 With my experience with Typescript doing the workout of the day (WODs), once you finish creating the main function (the top line), everything else is the same as other programming languages. 
 
-![image alt](https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/JSvsTS.png?raw=true)
 ## Errors before running
 
 Typescript is actually simple and straightforward if you have basic knowledge of Javascript. With my current experience using Typescript and prior experience with JavaScript, Typescript tends to be a little stricker and better with error handling. In the Typescript playground, when I would do the practice work, it would send me error messages before I have run the code. On the other hand, Javascript would only show the errors when you’re running the code. I find this feature helpful as I can get a hint on what and where is the error in my code without having to type more lines of code just to go back because one of my functions is broken. The only complaint I have for the error feature is when I create new functions and it would quickly send an error message which would make me panic.
