@@ -15,7 +15,10 @@
     ]
   },
   "interests": [
-    { "keywords": "Web Development", "Cybersecurity" , "Marketing", "Data Analysis" },
+    { "name": "Web Development" },
+    { "name": "Cybersecurity" },
+    { "name": "Marketing" },
+    { "name": "Data Analysis" },
   ],
   "skills": [
     {
