@@ -15,10 +15,7 @@
     ]
   },
   "interests": [
-    { "name": "Web Development" },
-    { "name": "Cybersecurity" },
-    { "name": "Marketing" },
-    { "name": "Data Analysis" },
+    { "name": "Web Development", "Cybersecurity" , "Marketing", "Data Analysis" },
   ],
   "skills": [
     {
@@ -29,7 +26,6 @@
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "Windows", "Git/GitHub", "Command line interface"]
     }
-    
   ],
   "education": [
     {
