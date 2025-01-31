@@ -4,7 +4,7 @@ type: essay
 title: "What to Question?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
-published: true
+published: false
 labels:
   - Good question
   - Bad question
@@ -15,7 +15,7 @@ labels:
 ## The Right Way
 
 
-## The Don'ts
+## Just No
 
 
 ## Moving on
