@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Sayings Database"
 date: 2024
-published: true
+published: false
 labels:
   - Java
 summary: "The first homework for ICS 311 where we were partnered up with a random classmate."
