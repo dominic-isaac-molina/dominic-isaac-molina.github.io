@@ -11,7 +11,7 @@ labels:
 ---
 
 
-*Nothing worth having comes easy - Nothing worth having comes easy*
+*Nothing worth having comes easy - Theodore Roosevelt*
 
 <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/d0bea6e9bd034e5cae7e6174ef2cc4174fe96c92/img/Teirlists.png?raw=true" alt="image alt" width="300" height="300">
 
