@@ -17,6 +17,7 @@ labels:
 
 ## The Right Way
 <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/question1.png?raw=true">
+
 StackOverflow: <a href="https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely"><i class="large github icon "></i>The smart question</a>
 
 This example showcases a good question because it's easy to read and provides all the information needed to solve their question. The user provided a header that directly asks what needs to be done and what program they are performing the tasks on and a question specifying where they want the files to be deleted from which is locally and remotely for this case. They also provided logs to see where and what error is occurring. 
