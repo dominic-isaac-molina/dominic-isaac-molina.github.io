@@ -13,7 +13,7 @@ labels:
 ---
 
 
-<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/valor.png?raw=true" width="800" height="800">
+<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/valor.png?raw=true" width="450" height="450">
 
 
 ## The Spark
