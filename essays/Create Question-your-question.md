@@ -5,7 +5,7 @@ type: essay
 title: "Question your question!"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
-published: true
+published: false
 labels:
   - Good question
   - Bad question
