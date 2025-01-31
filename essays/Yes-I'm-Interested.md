@@ -33,5 +33,5 @@ Another interest that I have yet to experience is data science and analytics. Iâ
 
 
 
-<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/pathways.png?raw=true" alt="image alt" width="450" height="450">
+<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/pathways.png?raw=true" width="450" height="450">
 
