@@ -9,8 +9,7 @@ labels:
   - Java
 summary: "A java project that showcases a simple messaging program which includes encryption that I developed in ICS 311."
 ---
-
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/ss1t.png?raw=true">
 <p>
 Secure Texting is project is a homework project that I devopled alone in ICS 311, Fall 2024. This project was orginally assigned to be done in a group of 2-4 people, but since it was the last homework I wanted to do challange myself and do it alone. To comeplete the project, I had to refer a lot to the textbook and other online textbooks for help and clarification. The whole project took about 15-20 hours to complete and received a perfect score. 
 </p>
