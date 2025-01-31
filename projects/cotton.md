@@ -4,7 +4,7 @@ type: project
 image: img/cotton/cotton-square.png
 title: "AHUPUA'A WATER MONITORING PROJECT"
 date: 2021
-published: true
+published: false
 labels:
   - Data analysis
   - Python
