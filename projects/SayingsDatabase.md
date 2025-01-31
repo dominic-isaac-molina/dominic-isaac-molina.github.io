@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/engtohaw.png
 title: "Sayings Database"
 date: 2024
 published: true
