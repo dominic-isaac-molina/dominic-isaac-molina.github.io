@@ -19,8 +19,9 @@ Watershed monitoring is important to track human impacts on the local environmen
 <p>
 When I was in highschool I was the president of the Interact Club which is affiliated with the Hawaii Rotary. The club focused on cleaning the local ecosystem and caring for the ʻāina. On one of our projects, we decided to enter the Hawaiʻi Youth Sustainability Challenge for the years 2019-2020. But since our project requires a long data collection we were able to get an extension until 2021. A cash budget was awarded to our club which we used to purchase three water monitoring sensors. We focused our deployment on two local streams that were heavily polluted. We deployed our sensors focusing on a single stream at a time, placing sensors in three different sections of the stream.
 </p>
-<p>
+
   <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/codingwithK.jpg?raw=true" width="650" height="370">
+<p>
 For this project I worked with four other members and we all had our own tasks. I was in charge of setting up the sensors using python. I also worked on retrieving the data from the sensors and analysing the collected data. Since our project was delayed due to COVID restrictions I was not able to see and help with the complete project. I was only able to finish data collection for one of the streams before graduating from the school. Since I was the only one who knew how to use the sensors, I had to train the remaining project members how to read the data and how to manage the python program if anything malfunctioned. 
 </p>
 <p>
