@@ -4,7 +4,7 @@ type: project
 image: img/vacay/vacay-square.png
 title: "Secure Texting"
 date: 2024
-published: true
+published: false
 labels:
   - Java
 summary: "A java project that showcases a simple messaging program which includes encryption that I developed in ICS 311."
