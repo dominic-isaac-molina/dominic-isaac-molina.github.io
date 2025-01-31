@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/AHU.png
+image: https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/AHU.png
 title: "AHUPUA'A WATER MONITORING PROJECT"
 date: 2021
 published: true
