@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/AHU.png
 title: "AHUPUA'A WATER MONITORING PROJECT"
 date: 2021
 published: true
