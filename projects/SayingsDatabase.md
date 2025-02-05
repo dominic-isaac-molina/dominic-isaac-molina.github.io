@@ -31,4 +31,4 @@ How the program works:
   8: Exits the program
 </pre>
 
-You can learn more about the project here:([https://docs.google.com/document/d/16hHpfMN5GSz5-Y2flF_Ka0DaEWFlbccBCIN1SgrF2_g/edit?usp=sharing])
+You can learn more about the project here: <a href="https://docs.google.com/document/d/16hHpfMN5GSz5-Y2flF_Ka0DaEWFlbccBCIN1SgrF2_g/edit?usp=sharing">Click Me</a>
