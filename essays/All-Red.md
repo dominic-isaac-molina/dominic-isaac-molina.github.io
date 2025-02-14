@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e835a147-009f-4403-a0a0-403925f2b425)---
+---
 layout: essay
 type: essay
 title: "All Red"
