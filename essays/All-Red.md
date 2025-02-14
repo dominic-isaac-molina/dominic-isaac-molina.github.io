@@ -18,7 +18,7 @@ So why do coding standards matter?
 
 Before you can answer this question, you need to understand what coding standards truly are. Often people think of coding standards as a rule telling them where to put the curly brackets or how many empty spaces they need for each line, etc. Although these are part of the coding standard, the bigger picture is often overlooked by many students like myself. In reality coding standards are an important foundation in programming. It helps programmers write understandable and organized code that is easy to read, not only for themselves but for others who might read their programs. Writing a well-structured code could help with debugging if your program crashes. When following coding standards you know where to expect brackets and semicolons, and missing or having an extra of either one of these is a notorious cause of program crashes. Following proper name for your functions will also save time and help other developers who may work on your existing files, understand what you wrote and the purpose of the program.
 
-<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/e4ffbcdc5373bc3437c9dd2cd21920de.jpg?raw=true">
+<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/typesmeme.png?raw=true">
 
 ## My Thoughts and Experiences
 
@@ -28,6 +28,6 @@ I will admit that I have not fully adapted to the coding standards and am still 
 
 ## Why You Should Learn and Implement Coding Standards Now
 
-<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/under.jpg?raw=true">
+<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/godmeme.png?raw=true">
 
 Imagine yourself in a few years, you finally got the interview from the company you always dreamed of. You spent years focusing on improving your problem solving and learned all sorts of programming skills and languages. You started coding and it ran perfectly, solving the prompt given to you. Then your interviewer suddenly asks you, "Why is your code so hard to read?" You're speechless and don't know how to reply. You never really focused on coding standards other than what is necessary for your classes. Coding standards aren't just classroom rules that you should follow only in school, they are necessary in the professional world. Writing a readable and maintainable code is a must, especially when working in a team of developers where files are shared and often modified. By adopting the coding standards now, you can save yourself from troubles in the future. 
