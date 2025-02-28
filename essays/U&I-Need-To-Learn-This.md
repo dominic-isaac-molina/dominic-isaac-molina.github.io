@@ -1,33 +1,49 @@
 ---
 layout: essay
 type: essay
-title: "All Red"
+title: "U&I Need To Learn This"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-13
 published: true
 labels:
-  - Coding Standards
+  - UI Frameworks
+  - Bootstrap 5
 ---
 
-<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/0_y801mnjMytrFl8w4.png?raw=true">
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/without.png?raw=true" width="45%" style="margin-right: 10px;">
+  <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/with.png?raw=true" width="45%">
+</div>
 
 
-## Why it Matters?
 
-So why do coding standards matter?
+## Why Learn and Practice At Least One UI Frameworks
+You might think, "Why should I learn any UI frameworks? I can achieve the same thing using HTML and CSS."
 
-Before you can answer this question, you need to understand what coding standards truly are. Often people think of coding standards as a rule telling them where to put the curly brackets or how many empty spaces they need for each line, etc. Although these are part of the coding standard, the bigger picture is often overlooked by many students like myself. In reality coding standards are an important foundation in programming. It helps programmers write understandable and organized code that is easy to read, not only for themselves but for others who might read their programs. Writing a well-structured code could help with debugging if your program crashes. When following coding standards you know where to expect brackets and semicolons, and missing or having an extra of either one of these is a notorious cause of program crashes. Following proper name for your functions will also save time and help other developers who may work on your existing files, understand what you wrote and the purpose of the program.
+Well, that is true, but it's the same as saying, "Why should you go to the hardware store and buy wood when you can chop your own?" 
 
-<img width="400px" src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/typesmeme.png?raw=true">
+Neither are bad options; one just requires more—and I mean more—effort to do. UI frameworks are like the wood you buy from the store. They provide you with preset components that you can use right away, saving you time and effort. This allows you to focus more on your website's functionality instead of trying to build from scratch every time. An example of a UI framework is Bootstrap 5. It contains premade components that are easy to implement once you get the gist of it. A cool function it has is ensuring the same responsiveness across all devices without having different versions of your code for mobile, tablet, and computer. It also has functions for the navigation bar and footers that are found in just about every website out there. Bootstrap 5 also has a library that contains pretty much everything you need to make your website.
 
-## My Thoughts and Experiences
 
-At first, I thought this whole coding standards thing was full of nonsense when I copied my code from Typescript playground to VScode and saw my whole program highlighted in red. Seeing all these warnings made me feel that something was wrong with my code so I ran it again on the playground, where it successfully ran. I searched for what could be the error online and found that restarting VScode fixed the red underline for others. I quickly restarted my VScode just to be welcomed by the same red underlines. That's when I realized that the problem wasn’t my code, but my coding style. I then proceeded to remove extra indents and that fixed 80% of the red underlines. A couple of curly brackets moved to their proper spots later and my code was error free. It wasn’t hard at all to fix my program. It just took a little bit more effort to go back and clean everything up. 
+## You Decide
+For those who might still think that UI frameworks are a waste of time.
 
-I will admit that I have not fully adapted to the coding standards and am still learning new things every WOD to fix errors. Just in the last practice WOD for Tuesday, I finally solved what is wrong with my functions being underlined blue. Although it didn’t affect the functionality of the program or the compiling, it irritated me how my code wasn’t error free. I learned that the reason for the blue highlight was that the keywords I was using, which was "Nums", needed to be added in the VScode’s settings. I am hoping that after a few more WODs I could finally be fully adapted to the coding standards.
+The image above was my practice WOD that discusses the history of some leading browsers commonly used today. The image next to it is the same website but with a footer implementation using Bootstrap 5. As I mentioned earlier, headers are a key part of modern website creation; with that said, a significant difference between the two is the header. Although with proper editing it is possible to create the second image's header without any UI framework, the difference lies behind the scenes in the index.html file. The implementation of the version without UI frameworks required 50 lines of CSS code and another 167 lines of HTML code to achieve. In contrast, the second version with a UI framework only needed 144 lines to implement. In short, I was able to achieve a more organized website with a properly aligned navigation bar with fewer lines of code.
 
-## Why You Should Learn and Implement Coding Standards Now
+<img width="400px" src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/17%20Best%20React%20UI%20Frameworks%20for%202024-20240821120845638.jpg?raw=true">
 
-<img width="400px" src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/godmeme.png?raw=true">
+## My Yap About Bootstrap 5
 
-Imagine yourself in a few years, you finally got the interview from the company you always dreamed of. You spent years focusing on improving your problem solving and learned all sorts of programming skills and languages. You started coding and it ran perfectly, solving the prompt given to you. Then your interviewer suddenly asks you, "Why is your code so hard to read?" You're speechless and don't know how to reply. You never really focused on coding standards other than what is necessary for your classes. Coding standards aren't just classroom rules that you should follow only in school, they are necessary in the professional world. Writing a readable and maintainable code is a must, especially when working in a team of developers where files are shared and often modified. By adopting the coding standards now, you can save yourself from troubles in the future. 
+
+When we first learned about Bootstrap 5, I thought it was the same as regular CSS/HTML until I needed to implement the navigation bar. I was very confused at first but quickly learned a simple navbar implementation. What I liked about it is that I didn't need to change and write more CSS code to create a random block placed at the top of the page to be my header, as I usually did in the past. I personally think that I need more practice with Bootstrap 5. In the WODs about replicating a website of our choice and another replicating Murphy's Restaurant, I realized that I was struggling the most with aligning things and not being able to put content where I wanted to place them. I think this is because I can't tell which "box" my content is in, and therefore I'm changing the wrong divs. A few ways I tried to counter this were referring back to old code and also trying to map out where I want things to be so I can create the corresponding header, footer, columns, and rows.
+
+Although I'm not having the easiest time implementing Bootstrap 5, a feature I really like is the pre-made logos and icons for popular apps like X and Instagram. Implementing icons has never been easier for me, as I would always use PNG photos and try to use them as icons on websites I've created before. I know it it would be hard but if I want to create websites, I need to learn UI frameworks.
+
+
+<footer style="text-align: center; margin-top: 20px;">
+  <p>Used ChatGPT for spelling corrections.</p>
+</footer>
+
+
+
+
