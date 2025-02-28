@@ -10,14 +10,9 @@ labels:
   - Bootstrap 5
 ---
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/without.png?raw=true" width="45%" style="margin-right: 10px;">
-  <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/with.png?raw=true" width="45%">
-</div>
+<img width="400px" src="https://raw.githubusercontent.com/dominic-isaac-molina/dominic-isaac-molina.github.io/refs/heads/main/img/ox1nwq5x67061.webp">
 
-
-
-## Why Learn and Practice At Least One UI Frameworks
+## Why Learn and Practice At Least One UI Framework
 You might think, "Why should I learn any UI frameworks? I can achieve the same thing using HTML and CSS."
 
 Well, that is true, but it's the same as saying, "Why should you go to the hardware store and buy wood when you can chop your own?" 
@@ -27,6 +22,11 @@ Neither are bad options; one just requires more—and I mean more—effort to do
 
 ## You Decide
 For those who might still think that UI frameworks are a waste of time.
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/without.png?raw=true" width="45%" style="margin-right: 10px;">
+  <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/with.png?raw=true" width="45%">
+</div>
 
 The image above was my practice WOD that discusses the history of some leading browsers commonly used today. The image next to it is the same website but with a footer implementation using Bootstrap 5. As I mentioned earlier, headers are a key part of modern website creation; with that said, a significant difference between the two is the header. Although with proper editing it is possible to create the second image's header without any UI framework, the difference lies behind the scenes in the index.html file. The implementation of the version without UI frameworks required 50 lines of CSS code and another 167 lines of HTML code to achieve. In contrast, the second version with a UI framework only needed 144 lines to implement. In short, I was able to achieve a more organized website with a properly aligned navigation bar with fewer lines of code.
 
