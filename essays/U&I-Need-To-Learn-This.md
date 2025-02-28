@@ -18,9 +18,9 @@ labels:
 ## Why Learn and Practice At Least One UI Framework
 You might think, "Why should I learn any UI frameworks? I can achieve the same thing using HTML and CSS."
 
-Well, that is true, but it's the same as saying, "Why should you go to the hardware store and buy wood when you can chop your own?" 
+Well, that is true, but it's the same as saying, "Why should I go to the hardware store and buy wood when you can chop my own?" 
 
-Neither are bad options; one just requires more and I mean more effort to do. UI frameworks are like the wood you buy from the store. They provide you with preset components that you can use right away, saving you time and effort. This allows you to focus more on your website's functionality instead of trying to build from scratch every time. An example of a UI framework is Bootstrap 5. It contains premade components that are easy to implement once you get the gist of it. A cool function it has is ensuring the same responsiveness across all devices without having different versions of your code for mobile, tablet, and computer. It also has functions for the navigation bar and footers that are found in just about every website out there. Bootstrap 5 also has a library that contains pretty much everything you need to make your website.
+Neither are bad options. One just requires more and I mean more effort to do. UI frameworks are like the wood you buy from the store. They provide you with preset components that you can use right away, saving you time and effort. This allows you to focus more on your website's functionality instead of trying to build from scratch every time. An example of a UI framework is Bootstrap 5. It contains premade components that are easy to implement once you get the gist of it. A cool function it has is ensuring the same responsiveness across all devices without having different versions of your code for mobile, tablet, and computer. It also has functions for the navigation bar and footers that are found in just about every website out there. Bootstrap 5 also has a library that contains pretty much everything you need to make a website.
 
 
 ## You Decide
