@@ -46,8 +46,8 @@ When we first learned about Bootstrap 5, I thought it was the same as regular CS
 Although I'm not having the easiest time implementing Bootstrap 5, a feature I really like is the premade logos and icons for popular apps like X and Instagram. Implementing icons has never been easier for me, as I would always use PNG photos and try to use them as icons on websites I've created before. I know it it would be hard but if I want to create websites, I need to learn UI frameworks.
 
 
-<footer style="text-align: center; margin-top: 20px; padding: 10px; border-top: 1px solid #ccc;">
-  <p>CHATGPT used for spelling corrections</p>
+<footer style="text-align: left; margin-top: 20px; padding: 10px; border-top: 1px solid #ccc;">
+  <p>ChatGPT used for spelling corrections</p>
 </footer>
 
 
