@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "U&I Need To Learn This"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-13
+date: 2025-02-27
 published: true
 labels:
   - UI Frameworks
