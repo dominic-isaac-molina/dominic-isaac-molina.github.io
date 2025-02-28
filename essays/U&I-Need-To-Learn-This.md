@@ -27,8 +27,8 @@ Neither are bad options; one just requires more—and I mean more—effort to do
 For those who might still think that UI frameworks are a waste of time.
 
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/dominic-isaac-molina/dominic-isaac-molina.github.io/refs/heads/main/img/ox1nwq5x67061.webp" height="300px" style="margin-right: 10px;">
-  <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/17%20Best%20React%20UI%20Frameworks%20for%202024-20240821120845638.jpg?raw=true" height="300px">
+  <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/without.png?raw=true" height="300px" style="margin-right: 10px;">
+  <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/with.png?raw=true" height="300px">
 </div>
 
 
