@@ -24,8 +24,8 @@ Neither are bad options; one just requires more—and I mean more—effort to do
 For those who might still think that UI frameworks are a waste of time.
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/without.png?raw=true" width="45%" style="margin-right: 10px;">
-  <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/with.png?raw=true" width="45%">
+  <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/without.png?raw=true" width="50%" style="margin-right: 10px;">
+  <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/with.png?raw=true" width="50">
 </div>
 
 The image above was my practice WOD that discusses the history of some leading browsers commonly used today. The image next to it is the same website but with a footer implementation using Bootstrap 5. As I mentioned earlier, headers are a key part of modern website creation; with that said, a significant difference between the two is the header. Although with proper editing it is possible to create the second image's header without any UI framework, the difference lies behind the scenes in the index.html file. The implementation of the version without UI frameworks required 50 lines of CSS code and another 167 lines of HTML code to achieve. In contrast, the second version with a UI framework only needed 144 lines to implement. In short, I was able to achieve a more organized website with a properly aligned navigation bar with fewer lines of code.
@@ -40,9 +40,10 @@ When we first learned about Bootstrap 5, I thought it was the same as regular CS
 Although I'm not having the easiest time implementing Bootstrap 5, a feature I really like is the pre-made logos and icons for popular apps like X and Instagram. Implementing icons has never been easier for me, as I would always use PNG photos and try to use them as icons on websites I've created before. I know it it would be hard but if I want to create websites, I need to learn UI frameworks.
 
 
-<footer style="text-align: center; margin-top: 20px;">
-  <p>Used ChatGPT for spelling corrections.</p>
+<footer style="text-align: center; margin-top: 20px; padding: 10px; border-top: 1px solid #ccc;">
+  <p>Spelling corrections provided by [Assistant's Name].</p>
 </footer>
+
 
 
 
