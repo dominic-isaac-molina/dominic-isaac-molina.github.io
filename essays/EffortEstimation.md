@@ -27,7 +27,7 @@ I think one of the important benefits of tracking actual effort by separating th
 
 ## Counting and Tracking
 
-<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/VSCPRES.png?raw=true" width="450" height="450">
+<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/VSCPRES.png?raw=true" width="450" height="230">
 
 So throughout the project there were two ways I tracked my time. At the beginning I wasn’t sure if my group wanted to do the extra credit but I still created a spreadsheet to track my time spent. I tracked my time by checking and noting what time I started and and finished. Then I would estimate the time difference between watching Youtube videos and talking to ChatGPT to time spent writing code. About midway through the M2 I installed the presence tool for Visual Studio Code that displays on discord how long you had VSC open. I would use this timer to estimate how much time I’ve been coding then guesstimate the difference between actual coding and research.
 
