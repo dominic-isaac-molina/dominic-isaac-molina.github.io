@@ -17,6 +17,7 @@ Artificial Intelligence has taken over education just like how it has with many 
 
 ## Reflection on AI usage in ICS 314
 
+
 ### Experience WODs e.g. E18
 
 In all of the homework WODs, I used AI to help me understand code structures and concepts that I have to use to complete the WODS. I also remember using it alot when I had to format things in the CSS when we were working on cloning websites because I couldn’t get things in the Navbar how I wanted them. Overall, I think AI was pretty helpful on the experience WODs because I could ask the questions I had without emailing or waiting for the next in person class. 
