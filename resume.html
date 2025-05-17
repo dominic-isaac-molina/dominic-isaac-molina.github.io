@@ -1,17 +1,17 @@
 ---
-title: Resume
 layout: home
+title: Resume
 ---
 
 <div class="container py-5">
 
-  <!-- header -->
+  <!-- Header -->
   <header class="text-center mb-5">
     <h1 class="display-4">{{ site.data.bio.basics.name }}</h1>
     <p class="lead">
       <a href="{{ site.data.bio.basics.website }}" class="me-3">
         <i class="bi bi-house-door-fill"></i>
-        {{ site.data.bio.basics.website | remove: "https://" | remove: "http://" }}
+        {{ site.data.bio.basics.website | replace: "https://", "" | replace: "http://", "" }}
       </a>
       <a href="mailto:{{ site.data.bio.basics.email }}" class="me-3">
         <i class="bi bi-envelope-fill"></i>
@@ -35,6 +35,7 @@ layout: home
   </header>
 
   <!-- Interests -->
+  {% if site.data.bio.interests %}
   <section class="mb-5">
     <h2 class="section-title">Interests</h2>
     <div class="mt-2">
@@ -43,6 +44,7 @@ layout: home
       {% endfor %}
     </div>
   </section>
+  {% endif %}
 
   <!-- Skills -->
   {% if site.data.bio.skills %}
@@ -51,8 +53,8 @@ layout: home
     <div class="mt-2">
       {% for entry in site.data.bio.skills %}
         <strong>{{ entry.name }}:</strong>
-        {% for keyword in entry.keywords %}
-          <span class="badge bg-secondary me-1 mb-1">{{ keyword }}</span>
+        {% for kw in entry.keywords %}
+          <span class="badge bg-secondary me-1 mb-1">{{ kw }}</span>
         {% endfor %}
         <br/>
       {% endfor %}
@@ -65,20 +67,16 @@ layout: home
   <section class="mb-5">
     <h2 class="section-title">Education</h2>
     <dl class="row">
-      {% for entry in site.data.bio.education %}
-        <dt class="col-md-3">{{ entry.institution }}</dt>
+      {% for e in site.data.bio.education %}
+        <dt class="col-md-3">{{ e.institution }}</dt>
         <dd class="col-md-9">
-          {{ entry.studyType }}, {{ entry.area }}
+          {{ e.studyType }}, {{ e.area }}
           <span class="text-muted">
             (
-            {% if entry.startDate %}{{ entry.startDate | slice: 0,4 }}{% endif %}
-            {% if entry.endDate %}
+            {% if e.startDate %}{{ e.startDate | slice: 0,4 }}{% endif %}
+            {% if e.endDate %}
               – 
-              {% if entry.endDate == "Present" %}
-                Present
-              {% else %}
-                {{ entry.endDate | slice: 0,4 }}
-              {% endif %}
+              {% if e.endDate == "Present" %}Present{% else %}{{ e.endDate | slice: 0,4 }}{% endif %}
             {% endif %}
             )
           </span>
@@ -93,17 +91,19 @@ layout: home
   <section class="mb-5">
     <h2 class="section-title">Awards</h2>
     <ul class="list-unstyled">
-      {% for entry in site.data.bio.awards %}
-        <li class="mb-3">
+      {% for a in site.data.bio.awards %}
+        <li class="mb-4">
           <div class="d-flex justify-content-between">
-            <strong>{{ entry.title }}</strong>
-            <span class="text-muted">{{ entry.date }}</span>
+            <strong>{{ a.title }}</strong>
+            <small class="text-muted">{{ a.date }}</small>
           </div>
-          <em class="text-muted">{{ entry.awarder }}</em><br/>
-          {{ entry.summary
-             | replace: "highschool", "high school"
-             | replace: "collage", "college"
-             | replace: "attending a degree in college", "pursuing a college degree" }}
+          <p class="mb-1"><em>{{ a.awarder }}</em></p>
+          <p>
+            {{ a.summary
+               | replace: "highschool", "high school"
+               | replace: "collage",    "college"
+               | replace: "attending a degree in college", "pursuing a college degree" }}
+          </p>
         </li>
       {% endfor %}
     </ul>
@@ -114,13 +114,12 @@ layout: home
   {% if site.data.bio.references %}
   <section class="mb-5">
     <h2 class="section-title">References</h2>
-    <p>Available upon request</p>
+    <p>Available upon request.</p>
   </section>
   {% endif %}
 
 </div>
 
-<!-- small custom CSS -->
 <style>
 .section-title {
   position: relative;
@@ -132,9 +131,9 @@ layout: home
   content: "";
   position: absolute;
   left: 0;
-  top: 0.2em;
+  top: 0.2rem;
   width: 0.3rem;
-  height: 0.8em;
+  height: 1rem;
   background-color: #0d6efd;
 }
 </style>
