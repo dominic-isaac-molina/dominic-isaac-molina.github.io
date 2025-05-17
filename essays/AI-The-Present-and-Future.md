@@ -4,7 +4,7 @@ type: essay
 title: "AI: The Present and Future"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-12
-published: true
+published: false
 labels:
   - ChatGPT
   - Gemini

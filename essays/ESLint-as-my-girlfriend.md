@@ -26,7 +26,7 @@ As the semester progressed came the changes in style. Just like how you mature i
 
 ## My Life after <s>Surrendering</s> Listening
 
-In just a semester I learned how to place my curly brackets and parentheses where I won’t lose them. I always knew which was partnered with what. I learned to count spaces before starting a new line. I also leave comments so future me understands what I was doing at that time. These were just a few patterns I noticed in my homework. How I wished I had the red underline ESlint threw everytime I messed up in real life, but things like what your girlfriend instructions and ESlint format should be embedded in your mind. It's a good and handy practice to have. Because when you finally code in a way that is functional and readable, it's the same feeling as hearing, “Wow, thank you this is exactly what I had in mind.” 
+In just a semester I learned how to place my curly brackets and parentheses where I won’t lose them. I always knew which was partnered with what. I learned to count spaces before starting a new line. I also leave comments so future me understands what I was doing at that time. These were just a few patterns I noticed in my homework. How I wished I had the red underline ESlint threw every time I messed up in real life, but things like what your girlfriend instructions and ESlint format should be embedded in your mind. It's a good and handy practice to have. Because when you finally code in a way that is functional and readable, it's the same feeling as hearing, “Wow, thank you this is exactly what I had in mind.” 
 
 
 <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/obama.jpg?raw=true" width="450" height="450">

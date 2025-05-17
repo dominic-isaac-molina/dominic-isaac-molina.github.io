@@ -4,7 +4,7 @@ type: essay
 title: "IDPM Effort Estimation"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-08
-published: true
+published: false
 labels:
   - IDPM Effort Estimation
 ---
