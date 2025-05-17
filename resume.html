@@ -9,7 +9,7 @@ layout: home
     <!-- Name -->
     <div class="row mb-4">
       <div class="col">
-        <h1 class="display-4 text-center">{{ site.data.bio.basics.name }}</h1>
+        <h1 class="display-4 text-center text-black">{{ site.data.bio.basics.name }}</h1>
       </div>
     </div>
 
@@ -51,7 +51,7 @@ layout: home
       </div>
       <div class="col-lg-9">
         {% for entry in site.data.bio.interests %}
-          <span class="badge bg-info text-dark me-1 mb-1">
+          <span class="badge badge-monochrome me-1 mb-1">
             {{ entry.name }}
             {% if entry.keywords and entry.keywords.size > 0 %}
               ({{ entry.keywords | join: "," }})
@@ -70,9 +70,9 @@ layout: home
       </div>
       <div class="col-lg-9">
         {% for entry in site.data.bio.skills %}
-          <strong>{{ entry.name }}:</strong>
+          <strong class="text-black">{{ entry.name }}:</strong>
           {% for keyword in entry.keywords %}
-            <span class="badge bg-secondary me-1 mb-1">{{ keyword }}</span>
+            <span class="badge badge-monochrome me-1 mb-1">{{ keyword }}</span>
           {% endfor %}
           <br/>
         {% endfor %}
@@ -90,99 +90,8 @@ layout: home
         {% for entry in site.data.bio.education %}
           <div class="row mb-3">
             <div class="col-9">
-              <p class="m-0"><strong>{{ entry.institution }}</strong></p>
-              <p class="m-0">{{ entry.studyType }}, {{ entry.area }}</p>
-              {% if entry.courses %}
-                <ul class="mb-0">
-                  {% for course in entry.courses %}
-                    <li>{{ course }}</li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </div>
-            <div class="col-3 text-end">
-              <p class="m-0 text-muted">
-                {% if entry.startDate %}{{ entry.startDate | slice: 0,4 }}{% endif %}
-                {% if entry.startDate and entry.endDate %}–{% endif %}
-                {% if entry.endDate %}
-                  {% if entry.endDate == "Present" %}
-                    Present
-                  {% else %}
-                    {{ entry.endDate | slice: 0,4 }}
-                  {% endif %}
-                {% endif %}
-              </p>
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
-
-    <!-- Work -->
-    {% if site.data.bio.work %}
-    <div class="row section mb-4 py-3">
-      <div class="col-lg-3">
-        <h2 class="section-heading">Work</h2>
-      </div>
-      <div class="col-lg-9">
-        {% for entry in site.data.bio.work %}
-          <div class="row mb-3">
-            <div class="col-9">
-              <p class="m-0"><strong>{{ entry.position }}, {{ entry.company }}</strong></p>
-              <p class="m-0">
-                <a href="{{ entry.website }}" class="text-decoration-none">
-                  {{ entry.website | remove: "http://" | remove: "https://" }}
-                </a>
-              </p>
-              <p class="m-0">{{ entry.summary }}</p>
-              {% if entry.highlights %}
-                <ul class="mb-0">
-                  {% for highlight in entry.highlights %}
-                    <li>{{ highlight }}</li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </div>
-            <div class="col-3 text-end">
-              <p class="m-0 text-muted">
-                {% if entry.startDate %}{{ entry.startDate | slice: 0,4 }}{% endif %}
-                {% if entry.startDate and entry.endDate %}–{% endif %}
-                {% if entry.endDate %}
-                  {% if entry.endDate == "Present" %}Present{% else %}{{ entry.endDate | slice: 0,4 }}{% endif %}
-                {% endif %}
-              </p>
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
-
-    <!-- Activities/Volunteer -->
-    {% if site.data.bio.volunteer %}
-    <div class="row section mb-4 py-3">
-      <div class="col-lg-3">
-        <h2 class="section-heading">Activities</h2>
-      </div>
-      <div class="col-lg-9">
-        {% for entry in site.data.bio.volunteer %}
-          <div class="row mb-3">
-            <div class="col-9">
-              <p class="m-0"><strong>{{ entry.position }}{% if entry.organization %}, {{ entry.organization }}{% endif %}</strong></p>
-              <p class="m-0">
-                <a href="{{ entry.website }}" class="text-decoration-none">
-                  {{ entry.website | remove: "http://" | remove: "https://" }}
-                </a>
-              </p>
-              <p class="m-0">{{ entry.summary }}</p>
-              {% if entry.highlights %}
-                <ul class="mb-0">
-                  {% for highlight in entry.highlights %}
-                    <li>{{ highlight }}</li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
+              <p class="m-0"><strong class="text-black">{{ entry.institution }}</strong></p>
+              <p class="m-0 text-black">{{ entry.studyType }}, {{ entry.area }}</p>
             </div>
             <div class="col-3 text-end">
               <p class="m-0 text-muted">
@@ -206,17 +115,19 @@ layout: home
         <h2 class="section-heading">Awards</h2>
       </div>
       <div class="col-lg-9">
-        {% for entry in site.data.bio.awards %}
+        {% for a in site.data.bio.awards %}
           <div class="row mb-3">
             <div class="col-9">
-              <p class="m-0"><strong>{{ entry.title }}</strong>, {{ entry.awarder }}</p>
-              <p class="m-0">{{ entry.summary
+              <p class="m-0">
+                <strong class="text-black">{{ a.title }}</strong>, {{ a.awarder }}
+              </p>
+              <p class="m-0 text-black">{{ a.summary
                 | replace: "highschool", "high school"
                 | replace: "collage",    "college"
                 | replace: "attending a degree in college", "pursuing a college degree" }}</p>
             </div>
             <div class="col-3 text-end">
-              <p class="m-0 text-muted">{{ entry.date }}</p>
+              <p class="m-0 text-muted">{{ a.date }}</p>
             </div>
           </div>
         {% endfor %}
@@ -231,7 +142,7 @@ layout: home
         <h2 class="section-heading">References</h2>
       </div>
       <div class="col-lg-9">
-        <p class="m-0">Available upon request.</p>
+        <p class="m-0 text-black">Available upon request.</p>
       </div>
     </div>
     {% endif %}
@@ -240,23 +151,45 @@ layout: home
 </div>
 
 <style>
+/* Black monochrome badges */
+.badge-monochrome {
+  background-color: #000 !important;
+  color: #fff !important;
+  border-radius: 0.25rem;
+  padding: 0.35em 0.6em;
+  font-size: 0.85em;
+}
+
+/* Section divider */
 .section {
   border-bottom: 1px solid rgba(0,0,0,0.1);
 }
+
+/* Black accent on section titles */
 .section-heading {
   position: relative;
   padding-left: 1rem;
   font-size: 1.25rem;
   margin-bottom: 0;
-  color: #0d6efd;
+  color: #000 !important;
 }
+
 .section-heading::before {
   content: "";
   position: absolute;
   left: 0;
-  top: .25em;
-  width: .25rem;
-  height: .8em;
-  background-color: #0d6efd;
+  top: 0.25em;
+  width: 0.3rem;
+  height: 0.8em;
+  background-color: #000 !important;
+}
+
+/* Force all links to black */
+a {
+  color: #000 !important;
+}
+a:hover {
+  color: #000 !important;
+  text-decoration: underline;
 }
 </style>
