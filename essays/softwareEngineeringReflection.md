@@ -4,7 +4,7 @@ type: essay
 title: "Software Engineering Reflection"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-16
-published: false
+published: true
 labels:
   - Coding Standards
   - Development Environment
