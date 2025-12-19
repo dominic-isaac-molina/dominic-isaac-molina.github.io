@@ -12,6 +12,7 @@ labels:
 
 <div style="text-align: center;"> <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/FK.jpg?raw=true" width="900" height="450"> </div>
 <div></div>
+
 ## The Beginning 
 
 In the beginning of the semester, our team had a really strong start. We also had concrete plans and a continuous flow of new ideas for the project. We completed our tasks early, and everyone contributed to the milestones. I would say this early success in planning was due to the meetings we held every weekend, where each group member discussed current progress and any ideas or concerns they had. I honestly loved these meetings, as I got to see where our project was currently sitting. It also allowed me to discuss my ideas and thoughts about the project and ask for any clarification I had with the whole group. I personally used these meetings as a due date to complete certain tasks, which really helped me stay on track and continue to work on the project in a linear flow. 
