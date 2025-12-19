@@ -4,7 +4,7 @@ type: essay
 title: "U&I Need To Learn This"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
-published: true
+published: false
 labels:
   - UI Frameworks
   - Bootstrap 5
