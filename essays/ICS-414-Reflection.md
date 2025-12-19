@@ -11,7 +11,7 @@ labels:
 ---
 
 # ICS 414 Reflection
-<img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/FK.jpg?raw=true" width="900" height="450">
+<div style="text-align: center;"> <img src="https://github.com/dominic-isaac-molina/dominic-isaac-molina.github.io/blob/main/img/FK.jpg?raw=true" width="900" height="450"> </div>
 
 
 ## The Beginning 
@@ -26,5 +26,8 @@ Another problem that I encountered was not splitting my issues correctly. I work
 
 ## The Things I Learned
 
+On a good note, I was able to learn alot of new experiences from the project. 
 
-## Moving on
+## Moving Pn
+
+Learning from my mistakes and new experiences, I’ve set new goals for my next projects that involve working with multiple people. First, I need to continue implementing PRs from now on, as it helped reduce crashes due to bad merges. I need to set more time to work on things rather than doing work near the deadline, as it will help with production, especially when the code needs a lot of revision. This ensures that the issue does not carry to the next milestone, leaving more time for more issues to work on. I also need to learn how to split my issues properly where it’s enough to ensure linear progress but also for better git history if anything crashes. The most important thing I learned in the end that I wish I was able to implement in this project is a security automation to ensure our code is safe and our users’ information.
