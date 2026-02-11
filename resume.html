@@ -108,6 +108,54 @@ layout: home
     </div>
     {% endif %}
 
+        <!-- Employment -->
+    {% if site.data.bio.work %}
+    <div class="row section mb-4 py-3">
+      <div class="col-lg-3">
+        <h2 class="section-heading">Employment</h2>
+      </div>
+      <div class="col-lg-9">
+        {% for entry in site.data.bio.work %}
+          <div class="row mb-3">
+            <div class="col-9">
+              <p class="m-0">
+                <strong class="text-black">{{ entry.position }}</strong>
+                {% if entry.company %}, {{ entry.company }}{% endif %}
+              </p>
+
+              {% if entry.location %}
+              <p class="m-0 text-muted">{{ entry.location }}</p>
+              {% endif %}
+
+              {% if entry.summary %}
+              <p class="m-0 text-black">{{ entry.summary }}</p>
+              {% endif %}
+
+              {% if entry.highlights and entry.highlights.size > 0 %}
+              <ul class="mb-0 text-black">
+                {% for h in entry.highlights %}
+                  <li>{{ h }}</li>
+                {% endfor %}
+              </ul>
+              {% endif %}
+            </div>
+
+            <div class="col-3 text-end">
+              <p class="m-0 text-muted">
+                {% if entry.startDate %}{{ entry.startDate | slice: 0,4 }}{% endif %}
+                {% if entry.startDate and entry.endDate %}–{% endif %}
+                {% if entry.endDate %}
+                  {% if entry.endDate == "Present" %}Present{% else %}{{ entry.endDate | slice: 0,4 }}{% endif %}
+                {% endif %}
+              </p>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+
     <!-- Awards -->
     {% if site.data.bio.awards %}
     <div class="row section mb-4 py-3">
