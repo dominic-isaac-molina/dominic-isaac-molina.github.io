@@ -7,29 +7,50 @@
     "phone": "808-392-4389",
     "website": "https://dominic-isaac-molina.github.io/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
-    "location": { "address": "", "postalCode": "96701", "city": "Aiea", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "",
+      "postalCode": "96701",
+      "city": "Aiea",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "dominic-isaac-molina", "url": "https://github.com/dominic-isaac-molina" },
-      { "network": "linkedin", "username": "dominicisaacmolina", "url": "http://linkedin.com/in/dominicisaacmolina" },
-      { "network": "instagram", "username": "molina.dominic", "url": "https://www.instagram.com/molina.dominic"}
+      {
+        "network": "github",
+        "username": "dominic-isaac-molina",
+        "url": "https://github.com/dominic-isaac-molina"
+      },
+      {
+        "network": "linkedin",
+        "username": "dominicisaacmolina",
+        "url": "http://linkedin.com/in/dominicisaacmolina"
+      },
+      {
+        "network": "instagram",
+        "username": "molina.dominic",
+        "url": "https://www.instagram.com/molina.dominic"
+      }
     ]
   },
+
   "interests": [
     { "name": "Web Development" },
     { "name": "Cybersecurity" },
     { "name": "Marketing" },
-    { "name": "Data Analysis" },
+    { "name": "Data Analysis" }
   ],
+
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "JavaScript", "C Programming", "Java", "CSS", "HTML"]
+      "keywords": ["JavaScript", "C Programming", "Java", "CSS", "HTML"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub", "Command line interface"]
+      "keywords": ["MacOS", "Windows", "Git/GitHub", "Command line interface"]
     }
   ],
+
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -37,11 +58,26 @@
       "studyType": "B.S.",
       "startDate": "2021-08-23",
       "endDate": "Present",
-      "courses": [
+      "courses": []
+    }
+  ],
+
+  "work": [
+    {
+      "position": "Project Coordinator",
+      "company": "Mana Construction Inc",
+      "location": "Kailua, Hawaii",
+      "startDate": "2026-02-11",
+      "endDate": "Present",
+      "summary": "Project coordination and administrative support for utility construction projects across Oahu.",
+      "highlights": [
+        "Develop project drawings for manholes and underground utility infrastructure",
+        "Assist with permits, compliance paperwork, and procurement coordination",
+        "Coordinate survey operations and site data collection for construction projects"
       ]
     }
   ],
-  
+
   "awards": [
     {
       "title": "Hawaii Rotary Youth Scholarship",
@@ -56,6 +92,7 @@
       "summary": "Scholarship awarded to students who are majoring in STEM."
     }
   ],
+
   "references": [
     {
       "name": "Available upon request"
